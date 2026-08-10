@@ -86,4 +86,65 @@ with the website through its dynamic interface.
 |---|---|
 | 🟠 HTML5 | Website Structure |
 | 🔵 CSS3 | Custom Styling |
-|
+| 🟡 JavaScript | Interactive Features |
+| 🟣 Bootstrap 5 | Responsive Layout |
+
+---
+
+# 📸 Website Preview
+
+<div align="center">
+
+<img src="./images/preview.png" width="90%" alt="AI Personality Website Preview"/>
+
+</div>
+
+> 📌 Add a screenshot of the project inside the `images` folder
+> and name it `preview.png`.
+
+---
+
+# 📱 Responsive Design
+
+AI Personality is designed to work smoothly across
+different screen sizes.
+
+<div align="center">
+
+📱 **Mobile**
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+📲 **Tablet**
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+💻 **Laptop**
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+🖥️ **Desktop**
+
+</div>
+
+---
+
+# 📂 Project Structure
+
+```text
+AI-Personality/
+│
+├── index.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+├── images/
+│   ├── logo.png
+│   ├── preview.png
+│   └── ...
+│
+└── README.md
